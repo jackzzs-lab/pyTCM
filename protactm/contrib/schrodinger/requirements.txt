@@ -1,0 +1,21 @@
+# local package
+-e .
+
+# external requirements
+debugpy
+python-box
+pdb2sql
+
+# jupyter lab
+jupyterlab>=3
+pycodestyle
+jupyterlab-lsp
+python-language-server
+jupyterlab-git
+jupyter_bokeh
+ipywidgets
+seaborn
+nglview
+ipympl
+pdb-tools
+click==7.0
